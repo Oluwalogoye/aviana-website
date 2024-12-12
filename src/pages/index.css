@@ -1,0 +1,9 @@
+.no-scroll {
+  overflow: hidden;
+  height: 100%; /* Prevent scrolling on the entire body */
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0px;
+}
